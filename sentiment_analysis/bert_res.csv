@@ -1,0 +1,6 @@
+model,MMLU Pro,GPQA,HLE,SciCode,AIME,MATH 500,LiveCodeBench,HumanEval,link
+GPT-4o-mini,64.8,42.6,4,22.9,11.7,78.9,23.4,87.6,https://benched.ai/models/gpt-4o-mini
+GPT-4o,80.3,65.5,5,36.6,32.7,89.3,42.5,96,https://benched.ai/models/gpt-4o-chatgpt-03-25
+Gemini 2.0 Flash,77.9,62.3,5.3,31.2,33,93,33.4,90.4,https://benched.ai/models/gemini-2-0-flash
+Mistral Small 3.2,68,51,4.3,26,32,88,28,85,https://benched.ai/models/mistral-small-3-2?utm_source=chatgpt.com
+Claude 3.5 Haiku,63.4,40.8,3.5,27.4,3.3,72.1,31.4,85.9,https://benched.ai/models/claude-3-5-haiku

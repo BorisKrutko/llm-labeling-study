@@ -1,0 +1,51 @@
+sentence1,sentence2,gold_label,pred_label,time_sec,prompt_tokens,completion_tokens,total_tokens
+A kid bored in a train with brown hair and his head lying down.,A child is riding the train from New York to Boston.,neutral,neutral,4.415552854537964,230,167,397
+A brown dog and black and white dog run along the green grass.,Two squirrels run after acorns in the grass.,contradiction,,2.0415091514587402,229,63,292
+A person in full astronaut suit and gear trains in an underwater lab as a scuba diver assists.,A female astronaut adjusting to the feeling of low gravity by training underwater.,neutral,entailment,2.4436516761779785,240,75,315
+An old Indian man dressed in rags sleeps on the ground using his backpack as a pillow.,An old Indian man is dressed up,contradiction,,2.4265058040618896,231,86,317
+A bunch of people are standing all together in a street with a building in the background.,A group of people are planning something.,neutral,neutral,3.615614652633667,228,119,347
+"Two girls (one dressed in blue, and one dressed in pink) are racing one another on rollerskates.",The winner gets a free soda.,neutral,neutral,2.2639458179473877,233,61,294
+"Many people gathered in a room with several people on stage with instruments and the words ""The Early November"" on the wall.",Parents gathers for a local high school concert,neutral,neutral,3.973085403442383,236,145,381
+A gray-haired man rides a bike in front of a bus advertising Ironman.,An older man rides his bike and is almost hit by a bus because he is looking at the Ironman poster.,neutral,neutral,3.4276082515716553,245,150,395
+Two men in black jackets behind a white handrail.,The two men are friends,neutral,neutral,2.1594035625457764,220,68,288
+A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.,A man is trying to earn money by playing for other people on the street.,neutral,entailment,2.313056707382202,243,77,320
+A young girl wearing a red shirt and cap smiling and holding a small toy is standing in front of a group of children playing behind her.,The girl is smiling because she is having fun.,neutral,neutral,3.933126926422119,242,149,391
+"A woman in a blue uniform, with long curly red-hair, looking at her horse before the race.",The horse is dead.,contradiction,neutral,2.1734890937805176,230,71,301
+A small child in a red jacket is sitting on a man's shoulders and holding his head.,The child's hands are on the man's head.,entailment,entailment,1.9245057106018066,232,69,301
+Three men drink at a reflective bar.,Three men are socializing during happy hour.,neutral,entailment,3.7805159091949463,220,152,372
+Man with black shirt and sunglasses makes something out of a balloon.,A woman cuts celery.,contradiction,neutral,1.709721326828003,223,62,285
+A man in a suit stands on a walkway with is suitcase with a large display in front of him announcing airline flights.,A man is at an airport.,entailment,entailment,2.493241786956787,236,81,317
+Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.,A man is wearing something.,entailment,entailment,1.8912267684936523,240,70,310
+A man and a woman embracing on the sidewalk.,A woman and a man block the entire sidewalk.,neutral,neutral,3.0853402614593506,225,125,350
+A lady in a dark coat is sitting with many people around her.,A woman is standing with her back to a dog.,contradiction,neutral,2.603452682495117,227,93,320
+Children on the beach with their dog.,The children are at the ocean with their dog.,entailment,entailment,1.8087639808654785,220,63,283
+A man is smiling at a woman in a white dress.,The man is on the moon.,contradiction,neutral,2.288992404937744,222,70,292
+A fighter jet plane is landed outside Notre Dame cathedral at night.,The fighter jet plane is not moving.,entailment,entailment,1.7659492492675781,223,65,288
+Two kids in blue wetsuits surf.,Two children build a sand castle.,contradiction,neutral,2.4183053970336914,218,74,292
+two dogs run across the woods.,The canines run around in the forest.,entailment,entailment,3.5150156021118164,218,150,368
+Several adults look on while a young girl plays in a ball pit.,A young girl is having fun.,neutral,entailment,1.8564872741699219,223,67,290
+Cheerleaders in blue performing on a football field underneath a yellow football goal post.,A group of girls shake pom poms.,neutral,entailment,2.1227972507476807,230,70,300
+A young boy plays on a pile of rocks.,A girl is having a tea party in her room.,contradiction,neutral,1.9839890003204346,223,57,280
+"A girl in a purple top, baggy pants and sneakers is blowing a kiss, while another girl in black watches.",A girl is smoking a cigar in a pool hall.,contradiction,,2.353156805038452,240,82,322
+People trying to get warm.,People are sleeping.,contradiction,neutral,3.407526731491089,212,131,343
+A group of young men are running in a grassy field.,A man sits by himself in the grass reading a book.,contradiction,neutral,4.204282283782959,227,129,356
+"A woman, in red and white, and wearing glasses, sits in a room with other people.",A woman is sitting in a room with other people.,entailment,entailment,2.4450900554656982,233,76,309
+Two men spar in martial arts gear.,There are multiple people present.,entailment,entailment,2.003410577774048,217,61,278
+A man in a army uniform is holding a picture with trees in it.,"The man, wearing scuba gear, jumps off the side of the boat into the ocean below.",contradiction,,2.177562952041626,238,81,319
+"A woman with a bag, talking on her cellphone, standing on the corner of the street, waiting to cross.",A man yells at the television for no reason.,contradiction,neutral,1.9170498847961426,237,62,299
+People waiting on a train platform.,People survive a horrible train crash.,contradiction,neutral,1.947962760925293,216,58,274
+The child is hanging upside down with his legs over a pole.,The child is upside down.,entailment,entailment,2.070373058319092,223,72,295
+A surfer is riding a wave in a large body of water.,The surfer is skateboarding.,contradiction,contradiction,2.0153026580810547,224,74,298
+people are standing near water with a boat heading their direction,People are waiting in line at the restaurant.,contradiction,neutral,2.228184700012207,222,61,283
+Two dogs are running next to each other on a grassy hill.,The dogs are chasing a squirrel.,neutral,neutral,3.709543228149414,226,163,389
+A woman wearing a beige sweater and black pants talking to man wearing black pants and top,The man and woman are engaged.,neutral,neutral,2.2669177055358887,228,64,292
+"A young boy is following through on a kick during a soccer game, while two players on the opposing team challenge.","The boy is on the floor, writhing in agony.",contradiction,contradiction,2.7793705463409424,238,80,318
+A man reads the paper in a bar with green lighting.,The man is climbing a mountain.,contradiction,,1.8201406002044678,221,55,276
+An old man in a blue shirt and white pants glowers by a glass door.,A man wearing a blue shirt and white pants,entailment,entailment,2.5501556396484375,228,106,334
+Several people in blue scrubs and one in a skirt and black blouse.,There are people wearing scrubs.,entailment,entailment,1.7631080150604248,226,66,292
+A woman is observing pictures on a camera.,A women purchasing a new camera from the store.,neutral,neutral,2.4471144676208496,222,93,315
+"A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",A person is near a pile of coconuts.,entailment,entailment,2.158944606781006,236,72,308
+People waiting in line in a snowstorm.,People are waiting in a line during a scorching drought.,contradiction,neutral,2.2795169353485107,224,79,303
+"In front of a brick house with a straw roof and some figures, three children stand, two of them holding squares of blackboard.",The children are doing schoolwork on the black boards,neutral,entailment,2.266653537750244,240,96,336
+"A large number of people are watching men dressed in kilts, one of whom has thrown a long pole.",a cow moo's,contradiction,,2.86057186126709,229,99,328
+Two bearded men sit side by side.,Three women are sitting on a blanket.,contradiction,,2.0792531967163086,220,72,292
